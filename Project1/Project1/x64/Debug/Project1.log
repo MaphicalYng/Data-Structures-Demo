@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2678: 二进制“>>”: 没有找到接受“std::ostream”类型的左操作数的运算符(或没有可接受的转换)
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): note: 可能是“内置 C++ operator>>(bool, int)”
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): note: 尝试匹配参数列表“(std::ostream, int)”时
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(108): note: 编译类 模板 成员函数“void List<int>::Print(void)”时
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(147): note: 参见对正在编译的函数 模板 实例化“void List<int>::Print(void)”的引用
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(124): note: 参见对正在编译的类 模板 实例化“List<int>”的引用
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2088: “>>”: 对于 class 非法
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &&,_Ty &)”: 未能从“std::ostream”为“std::basic_istream<_Elem,_Traits> &&”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1104): note: 参见“std::operator >>”的声明
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(108): note: 编译类 模板 成员函数“void List<double>::Print(void)”时
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(157): note: 参见对正在编译的函数 模板 实例化“void List<double>::Print(void)”的引用
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(140): note: 参见对正在编译的类 模板 实例化“List<double>”的引用
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)”: 未能从“std::ostream”为“std::basic_istream<char,_Traits> &”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1094): note: 参见“std::operator >>”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)”: 未能从“std::ostream”为“std::basic_istream<char,_Traits> &”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1087): note: 参见“std::operator >>”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)”: 未能从“std::ostream”为“std::basic_istream<char,_Traits> &”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1080): note: 参见“std::operator >>”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)”: 未能从“std::ostream”为“std::basic_istream<char,_Traits> &”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1073): note: 参见“std::operator >>”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)”: 未能从“std::ostream”为“std::basic_istream<_Elem,_Traits> &”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1048): note: 参见“std::operator >>”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2784: “std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)”: 未能从“std::ostream”为“std::basic_istream<_Elem,_Traits> &”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\istream(1006): note: 参见“std::operator >>”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(111): error C2676: 二进制“>>”:“std::ostream”不定义该运算符或到预定义运算符可接收的类型的转换

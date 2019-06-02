@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(6): error C2988: 不可识别的模板声明/定义
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(6): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(6): error C2059: 语法错误:“<”
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(20): error C2588: “::~List”: 非法的全局 析构函数
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(21): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(21): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(26): error C2988: 不可识别的模板声明/定义
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(26): error C2059: 语法错误:“<”
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(41): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(41): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(53): error C2988: 不可识别的模板声明/定义
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(53): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(53): error C2371: “List”: 重定义；不同的基类型
+  c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(26): note: 参见“List”的声明
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(53): error C2059: 语法错误:“<”
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(75): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(75): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(123): error C2062: 意外的类型“int”
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(127): error C2065: “target1”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(131): error C2062: 意外的类型“char”
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(135): error C2065: “target2”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(139): error C2062: 意外的类型“double”
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(143): error C2065: “target3”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(145): error C2065: “list1”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(146): error C2065: “list1”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(147): error C2065: “list1”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(147): error C2065: “target1”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(148): error C2065: “list1”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(150): error C2065: “list2”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(151): error C2065: “list2”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(152): error C2065: “list2”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(152): error C2065: “target2”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(153): error C2065: “list2”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(155): error C2065: “list3”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(156): error C2065: “list3”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(157): error C2065: “list3”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(157): error C2065: “target3”: 未声明的标识符
+c:\users\shuolin yang\desktop\atuniversity\学业\大二上学期1709-1801\数据结构\c++\project1\project1\main.cpp(158): error C2065: “list3”: 未声明的标识符
